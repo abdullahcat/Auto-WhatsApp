@@ -35,7 +35,7 @@ pip install tkinter
 ``` 
 
 - fonttools
-https://fonttools.readthedocs.io/en/latest/
+> https://fonttools.readthedocs.io/en/latest/
 ```ruby
 pip install fonttools
 ``` 
