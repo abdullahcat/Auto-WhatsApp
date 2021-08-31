@@ -5,7 +5,7 @@
 
 - No Selenium.
 - Automatic Login is not yet available for some security problems.
-- Please read the User Manual before using.
+- Please read the [User Manual](https://github.com/abdullahcat/Auto-WhatsApp/blob/main/UserManuel.md) before using.
 - The .exe file has not been uploaded yet because it is large. Will be uploaded as soon as possible.
 
 ## Libraries You Need to Import
